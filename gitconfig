@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = Karenkargosha@yahoo.com
+	name = Karen Kargosha
